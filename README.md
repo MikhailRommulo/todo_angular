@@ -1,5 +1,5 @@
 Projeto feito seguindo as aulas do curso de começando com angular do https://balta.io .
-<a href="https://mikhailrommulo.github.io/todo_angular/" target="_blank" rel="noopener noreferrer">Link para a aplicação</a>
+<a href="https://mikhailrommulo.github.io/todo_angular/">Link para a aplicação</a>
 
 #Readme padrão de um projeto angular
 # Todo
