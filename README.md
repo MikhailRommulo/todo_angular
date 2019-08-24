@@ -1,3 +1,7 @@
+Projeto feito seguindo as aulas do curso de começando com angular do https://balta.io .
+<a href="https://mikhailrommulo.github.io/todo_angular" target"_blank">Link para a aplicação</a>
+
+#Readme padrão de um projeto angular
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
